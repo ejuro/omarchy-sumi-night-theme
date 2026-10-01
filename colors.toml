@@ -1,0 +1,36 @@
+# Sumi Night: ivory ink on charcoal paper, ink-wash colours, one vermilion seal.
+mode = "dark"
+
+accent = "#d4523b"
+selection = "#2f2627"
+muted = "#6a6762"
+
+# Softer seal on the window edge: vermilion fading to dried ink-red.
+hyprland_active_border = "rgba(d4523bbb) rgba(9a3d2e99) 45deg"
+hyprland_inactive_border = "rgba(6f6c6640)"
+
+background = "#16171b"
+dark_background = "#121316"
+darker_background = "#0e0f11"
+lighter_background = "#202126"
+
+foreground = "#e6dfd0"
+dark_foreground = "#9a958b"
+light_foreground = "#efe9dc"
+bright_foreground = "#f7f2e6"
+
+red = "#d4523b"
+yellow = "#cbb48a"
+orange = "#c98f6a"
+green = "#a3ab8c"
+cyan = "#95aba7"
+blue = "#929fb0"
+magenta = "#b394a3"
+brown = "#8a6d55"
+
+bright_red = "#db705c"
+bright_yellow = "#d8c6a6"
+bright_green = "#b6bca4"
+bright_cyan = "#acbdba"
+bright_blue = "#aab4c1"
+bright_magenta = "#c4acb8"
