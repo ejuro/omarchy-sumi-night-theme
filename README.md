@@ -1,6 +1,6 @@
 # Sumi Night
 
-A charcoal and ivory theme for Omarchy 4, with vermilion accents and three 4K ink-wash wallpapers.
+A charcoal and ivory theme for Omarchy 4, with vermilion accents and four 4K ink-wash wallpapers.
 
 ![Sumi Night desktop preview](preview.png?v=4e23a0a)
 
