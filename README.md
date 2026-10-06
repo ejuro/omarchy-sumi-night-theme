@@ -5,7 +5,7 @@ A charcoal and ivory theme for Omarchy 4, with vermilion accents and four 4K ink
 ![Sumi Night desktop preview](preview.png?v=4e23a0a)
 
 ```sh
-omarchy theme install https://github.com/ejuro/omarchy-sumi-night-theme.git
+omarchy theme install https://github.com/erikrjohansson/omarchy-sumi-night-theme.git
 ```
 
 ## Updating
